@@ -16,7 +16,9 @@ This project analyzes vendor performance using purchasing, sales, invoice, and i
 
 ## Data
 •⁠  ⁠Raw input datasets are under ⁠ data/raw/ ⁠
+
 •⁠  ⁠Processed / combined datasets are under ⁠ data/processed/ ⁠
+
 •⁠  ⁠Large raw files (if excluded) are documented in ⁠ data/README.md ⁠
 
 ## Tools used
