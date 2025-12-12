@@ -33,8 +33,11 @@ A Power BI dashboard was created to visualize vendor performance metrics and mak
 
 The dashboard highlights:
 •⁠  ⁠Vendor-level sales, purchases, and profitability
+
 •⁠  ⁠Inventory movement and turnover patterns
+
 •⁠  ⁠Identification of high- and low-performing vendors
+
 •⁠  ⁠Comparative views to support purchasing and inventory decisions
 
 Due to file size limitations, the Power BI ⁠ .pbix ⁠ file may not be stored directly in this repository. The dashboard was built using the processed datasets generated from the analysis notebooks.
